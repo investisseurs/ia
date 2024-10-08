@@ -1,15 +1,15 @@
 ---
-title: Gérer le processus de recrutement
+title: Créez Votre Plan d'Affaires en Quelques Minutes !
 subtitle: Masterclass
 layout: default
 modal-id: 1
-date: 2024-08-30
+date: 2024-10-09
 img: Gerer processus recrutement Animated Marketing thumbnail.gif
 thumbnail: Gerer processus recrutement Animated Marketing thumbnail.gif
 alt: image-alt
 project-date: Nous contacter
 client: Réserver
 category: S'abonner
-description: Déverrouillez une nouvelle ère de gestion du recrutement avec l'Intelligence Artificielle. Conçu pour répondre aux besoins des entreprises en expansion, cette masterclass vous permet de gérer efficacement tout le processus de recrutement, de la recherche de candidats à la rédaction de descriptions de poste attractifs. Utilisez l'intelligence de ChatGPT pour affiner vos approches et capter l'attention des candidats les plus qualifiés. Avec notre série de requêtes optimisées, transformez votre manière d'embaucher les futurs talents de votre organisation.
+description: Découvrez comment utiliser la puissance des prompts AI pour rédiger un plan d'affaires complet et structuré en un temps record. Cette masterclass vous offre des techniques innovantes pour générer des idées, structurer votre plan et peaufiner chaque détail grâce à l'IA. Plus de perte de temps, lancez-vous dans l'entrepreneuriat dès aujourd'hui avec un plan solide et percutant.
 
 ---
