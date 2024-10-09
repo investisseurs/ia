@@ -1,5 +1,5 @@
 ---
-title: De la Documentation à la Vente de Votre Entreprise grâce à l'IA
+title: De la Documentation à la Vente de Votre Entreprise
 subtitle: Conférence
 layout: default
 modal-id: 5
@@ -11,4 +11,5 @@ project-date: Nous contacter
 client: Réserver
 category: S'abonner
 description: Envie de passer à la vitesse supérieure ? Cette conférence est faite pour vous ! Découvrez comment l'IA générative peut vous aider à gagner du temps, à prendre de meilleures décisions et à attirer des investisseurs. Des masterclasses pratiques vous permettront de maîtriser les outils et les techniques nécessaires pour transformer votre entreprise en une réussite.
+
 ---
