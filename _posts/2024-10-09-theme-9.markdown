@@ -1,5 +1,5 @@
 ---
-title: Accélérez vos demandes de subventions et augmentez votre taux de succès
+title: Accélérez vos demandes de subventions
 subtitle: Masterclass
 layout: default
 modal-id: 9
