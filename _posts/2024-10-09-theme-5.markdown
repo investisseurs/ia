@@ -4,8 +4,8 @@ subtitle: Conférence
 layout: default
 modal-id: 5
 date: 2024-10-09
-img: Bleu tendance Noir et blanc Kit pour conférence Story publicité.gif
-thumbnail: Bleu tendance Noir et blanc Kit pour conférence Story publicité.gif
+img: Bleu tendance Noir et blanc Kit Story.gif
+thumbnail: Bleu tendance Noir et blanc Kit Story.gif
 alt: image-alt
 project-date: Nous contacter
 client: Réserver
