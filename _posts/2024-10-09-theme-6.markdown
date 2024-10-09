@@ -1,5 +1,5 @@
 ---
-title: externalisation des processus métier à l'IA
+title: Externalisation des processus métier à l'IA
 subtitle: Séminaire
 layout: default
 modal-id: 6
