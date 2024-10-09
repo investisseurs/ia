@@ -1,5 +1,5 @@
 ---
-title: Vendre Votre Potentiel - Le Secret d'une Acquisition Réussie
+title: Vendre Votre Potentiel - Le Secret d'une Acquisition
 subtitle: Masterclass
 layout: default
 modal-id: 4
