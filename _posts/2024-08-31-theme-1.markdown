@@ -4,8 +4,8 @@ subtitle: Masterclass
 layout: default
 modal-id: 1
 date: 2024-10-09
-img: Gerer processus recrutement Animated Marketing thumbnail.gif
-thumbnail: Gerer processus recrutement Animated Marketing thumbnail.gif
+img: Business Plan Animated Marketing thumbnail.gif
+thumbnail: Business Plan Animated Marketing thumbnail.gif
 alt: image-alt
 project-date: Nous contacter
 client: Réserver
