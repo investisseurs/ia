@@ -1,0 +1,16 @@
+
+---
+title: Accélérez vos demandes de subventions et augmentez votre taux de succès
+subtitle: Masterclass
+layout: default
+modal-id: 9
+date: 2024-10-09
+img: Business Plan Animated Marketing thumbnail.gif
+thumbnail: Business Plan Animated Marketing thumbnail.gif
+alt: image-alt
+project-date: Nous contacter
+client: Réserver
+category: S'abonner
+description: Dépassez vos objectifs de financement grâce à l'IA générative. Apprenez à automatiser vos tâches, à améliorer la qualité de vos demandes de subventions et à renforcer vos relations avec les donateurs. Une formation essentielle pour les associations souhaitant maximiser leur impact.
+
+---
