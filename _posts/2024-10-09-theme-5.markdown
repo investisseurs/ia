@@ -1,0 +1,14 @@
+---
+title: De la Documentation à la Vente de Votre Entreprise grâce à l'IA
+subtitle: Conférence
+layout: default
+modal-id: 5
+date: 2024-10-09
+img: Bleu tendance Noir et blanc Kit pour conférence Story publicité.gif
+thumbnail: Bleu tendance Noir et blanc Kit pour conférence Story publicité.gif
+alt: image-alt
+project-date: Nous contacter
+client: Réserver
+category: S'abonner
+description: Envie de passer à la vitesse supérieure ? Cette conférence est faite pour vous ! Découvrez comment l'IA générative peut vous aider à gagner du temps, à prendre de meilleures décisions et à attirer des investisseurs. Des masterclasses pratiques vous permettront de maîtriser les outils et les techniques nécessaires pour transformer votre entreprise en une réussite.
+---
