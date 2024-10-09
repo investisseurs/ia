@@ -1,0 +1,15 @@
+---
+title: Démasquez les Angles Morts de Votre Entreprise
+subtitle: Masterclass
+layout: default
+modal-id: 8
+date: 2024-10-09
+img: Business Plan Animated Marketing thumbnail.gif
+thumbnail: Business Plan Animated Marketing thumbnail.gif
+alt: image-alt
+project-date: Nous contacter
+client: Réserver
+category: S'abonner
+description: Vous envisagez de vendre votre entreprise et craignez de passer à côté de points cruciaux ? Ce masterclass vous aide à identifier et combler les angles morts qui pourraient nuire à sa valeur. Découvrez comment faire un bilan complet de votre activité, anticiper les questions des acheteurs et maximiser votre potentiel de vente.
+
+---
