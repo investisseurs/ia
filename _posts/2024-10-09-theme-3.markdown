@@ -1,5 +1,5 @@
 ---
-title: Déléguer, Automatiser, Éliminer - Le Secret du Succès Entreprise
+title: Déléguer, Automatiser, Éliminer
 subtitle: Masterclass
 layout: default
 modal-id: 3
