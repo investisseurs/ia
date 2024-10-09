@@ -1,5 +1,5 @@
 ---
-title: Préparer Votre Entreprise pour la Vente - Le Rôle Crucial de la Documentation de Processus
+title: Préparer la Documentation de Processus
 subtitle: Masterclass
 layout: default
 modal-id: 7
