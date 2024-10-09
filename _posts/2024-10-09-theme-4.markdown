@@ -1,0 +1,15 @@
+---
+title: Vendre Votre Potentiel - Le Secret d'une Acquisition Réussie
+subtitle: Masterclass
+layout: default
+modal-id: 4
+date: 2024-10-09
+img: Masterclasses Animated Marketing thumbnail.gif
+thumbnail: Masterclasses Animated Marketing thumbnail.gif
+alt: image-alt
+project-date: Nous contacter
+client: Réserver
+category: S'abonner
+description: Découvrez comment transformer votre entreprise en une histoire de croissance passionnante. Apprenez à identifier les leviers de croissance clés, développer un plan stratégique convaincant et raconter une histoire qui captivera les investisseurs potentiels grâce à l'IA générative.
+
+---
