@@ -4,7 +4,7 @@ subtitle: Conference
 layout: default
 modal-id: 5
 date: 2024-10-09
-img: Bleu tendance Noir et blanc Kit pour conférence Story publicité.gif
+img: conference.gif
 thumbnail: Masterclasses Animated Marketing thumbnail.gif
 alt: image-alt
 project-date: Nous contacter
