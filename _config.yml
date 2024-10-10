@@ -9,9 +9,9 @@ description: "Guide pratique pour lever des fonds plus efficacement grâce à l'
 
 # Team names, titles and social links
 people:
-- name: Chatbot Relations Investisseurs
+- name: Relations Investisseurs
   pic: message-bot # download bots-brands-solid.svg 1
-  position: Vous en avez marre de répondre aux mêmes questions encore et encore ?
+  position: Il peut répondre aux questions des investisseurs, fournir des informations sur l'entreprise et faciliter la communication.
   social:
     - title: comments #book bots code
       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
@@ -23,7 +23,7 @@ people:
 
 - name: Anticiper les questions
   pic: message-bot # download bots-brands-solid.svg 1
-  position: Comment préparer un exposé en anticipant les questions des investisseurs ?
+  position: Le chatbot fournit un feedback immédiat à l'entrepreneur, l'aidant à affiner son discours et à gagner en confiance.
   social:
     - title: comments #book bots code
       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
@@ -33,9 +33,9 @@ people:
       url: https://wa.me/p/9089964124363229/33605861568 # https://wa.me/c/33605861568 https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
 
 
-- name: Préparer la Documentation
+- name: Préparer la Due diligence
   pic: message-bot # download bots-brands-solid.svg 1
-  position: Comment assurer la mise à jour régulière d'une documentation ?
+  position: Le chatbot est capable d'identifier les potentiels risques juridiques, financiers ou opérationnels en comparant les informations extraites avec les bases de données.
   social:
     - title: comments #book bots code
       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
@@ -47,7 +47,7 @@ people:
 
 - name: Développer un plan stratégique convaincant
   pic: message-bot # download bots-brands-solid.svg 1
-  position: Comment préparer un pitchdeck convaincant pour les investisseurs ?
+  position: Il peut aider à structurer le plan stratégique en proposant une logique cohérente et en identifiant les étapes clés.
   social:
     - title: comments #book bots code
       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
@@ -71,7 +71,7 @@ people:
 
 - name: Rédiger Votre Business Plan sur mesure
   pic: message-bot # download bots-brands-solid.svg 1
-  position: Extension IA
+  position: Ce chatbot peut guider les utilisateurs étape par étape, poser des questions clés, offrir des conseils spécifiques, et générer un business plan automatiquement.
   social:
     - title: comments #book bots code
       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
@@ -83,7 +83,7 @@ people:
 
 - name: Rédiger les courriers de prise de contact avec les investisseurs
   pic: message-bot # download bots-brands-solid.svg 1
-  position: Extension IA # Rédiger des offres d'emploi
+  position: Le chatbot peut analyser les types d’investissements antérieurs de l'investisseur et ajuster le courrier en fonction de ses intérêts (par exemple, orienter la lettre vers l'impact social pour un investisseur axé sur les projets à fort impact social).
   social:
     - title: comments #book bots code
       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
@@ -95,7 +95,7 @@ people:
 
 - name: Faire des simulations d'entretiens avec les investisseurs
   pic: message-bot # download bots-brands-solid.svg 1
-  position: Extension IA # Rédiger des offres d'emploi
+  position: Il peut poser des questions types, évaluer les réponses, donner des conseils et proposer des améliorations. Il peut également simuler différents types d'investisseurs, chacun avec ses propres priorités et styles d'interaction, offrant une expérience plus réaliste.
   social:
     - title: comments #book bots code
       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
@@ -107,7 +107,7 @@ people:
 
 - name: Découvrir comment transformer votre entreprise
   pic: message-bot # download bots-brands-solid.svg 1
-  position: Extension IA # Rédiger des offres d'emploi
+  position: C'est un outil puissant pour les dirigeants d'entreprise qui cherchent à identifier des opportunités de croissance, d'innovation ou de transformation digitale.
   social:
     - title: comments #book bots code
       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
