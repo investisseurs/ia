@@ -124,8 +124,8 @@ social:
     # url: https://twitter.com/AmmiMarketic
   - title: facebook
     url: https://www.facebook.com/monjobconnect # https://www.facebook.com/ammimarketic
-  # - title: linkedin
-    # url: https://www.linkedin.com/showcase/ammi-marketic
+  - title: linkedin
+    url: https://www.linkedin.com/showcase/les-relations-investisseurs-assist%C3%A9es-par-l%E2%80%99ia/?trk=public_post-text
   - title: github
     url:  https://github.com/jobconnectml/ # https://github.com/AMMIMarkeTIC
   - title: amazon
