@@ -5,7 +5,7 @@ layout: default
 modal-id: 5
 date: 2024-10-09
 img: conference.gif
-thumbnail: conference.gif
+thumbnail: Red and Yellow Modern Artificial intelligence Webinar Instagram Post.gif
 alt: image-alt
 project-date: Nous contacter
 client: Réserver
