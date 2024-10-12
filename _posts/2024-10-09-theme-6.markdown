@@ -5,7 +5,7 @@ layout: default
 modal-id: 6
 date: 2024-09-01
 img: Elearning.gif
-thumbnail: Elearning.gif
+thumbnail: Purple animated tech festival promo instagram post.gif
 alt: image-alt
 project-date: Nous contacter
 client: Réserver
