@@ -9,7 +9,7 @@ description: "Guide pratique pour lever des fonds plus efficacement grâce à l'
 
 # Team names, titles and social links
 people:
-- name: Relations Investisseurs
+- name: Chatbot sur mesure
   pic: message-bot # download bots-brands-solid.svg 1
   position: Choisissez entre l'efficacité du Chatbot Premium, à partir de 20 €, avec la puissance de la version Entreprise, personnalisée pour votre société dès 200 €/mois. Automatisez vos tâches professionnelles, améliorez vos processus et intégrez un assistant virtuel à votre site et à vos réseaux sociaux. Offrez à vos clients une expérience fluide et engageante, tout en renforçant votre présence digitale et en accélérant la croissance de votre entreprise.
 
@@ -111,9 +111,10 @@ people:
 #       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
 #     - title: whatsapp
 #       url: https://wa.me/p/9089964124363229/33605861568 # https://wa.me/c/33605861568 https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
-- name: Chatbot sur mesure
+
+- name: Relations Investisseurs
   pic: message-bot # download bots-brands-solid.svg 1
-  position: La version Premium vous permet de vous former à l’investissement à votre rythme, tandis que la version Entreprise, directement connectée à vos informations, segmente et forme vos investisseurs. 
+  position: Découvrez le potentiel de notre chatbot avec deux options puissantes. La version Premium vous permet de vous former à l’investissement à votre rythme, tandis que la version Entreprise, directement connectée à vos informations, segmente et forme vos investisseurs. Elle les guide à travers tout le processus que vous déléguez, simplifiant ainsi votre gestion tout en augmentant l'efficacité. Laissez l’IA gérer vos investisseurs pendant que vous vous concentrez sur l’essentiel : faire croître votre entreprise.
 
   
   social:
