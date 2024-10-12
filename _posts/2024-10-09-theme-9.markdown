@@ -1,5 +1,5 @@
 ---
-title: Accélérez vos demandes de subventions
+title: Accélérez vos demandes de financement
 subtitle: Masterclass
 layout: default
 modal-id: 9
