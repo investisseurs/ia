@@ -1,10 +1,10 @@
 ---
-published: false
 title: Créez Votre Plan d'Affaires en Quelques Minutes !
 subtitle: Masterclass
 layout: default
 modal-id: 1
 date: 2024-10-12
+published: false
 img: Business Plan Animated Marketing thumbnail.gif
 thumbnail: Masterclass.gif
 alt: image-alt
