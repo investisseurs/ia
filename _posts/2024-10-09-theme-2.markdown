@@ -4,8 +4,8 @@ subtitle: Masterclass
 layout: default
 modal-id: 2
 date: 2024-10-12
-img: Masterclass.gif
-thumbnail: Pink Vibrant Artificial intelligence Webinar Instagram Post.gif
+img: Masterclass
+thumbnail: Masterclass.gif
 alt: image-alt
 project-date: Nous contacter
 client: Réserver
