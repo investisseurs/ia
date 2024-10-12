@@ -1,5 +1,5 @@
 ---
-title: Maximiser Votre Exit au Moment Parfait pour Vendre
+title: Maximiser Votre Levée de fonds au Moment Parfait
 subtitle: Masterclass
 layout: default
 modal-id: 2
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: Nous contacter
 client: Réserver
 category: S'abonner
-description: Découvrez comment tirer le meilleur parti de la vente de votre entreprise grâce à cette masterclass. Apprenez à identifier les signaux qui indiquent que votre entreprise est prête à passer à la prochaine étape et à négocier un accord gagnant-gagnant.
+description: Découvrez comment tirer le meilleur parti de la levée de fonds de votre entreprise grâce à cette masterclass. Apprenez à identifier les signaux qui indiquent que votre entreprise est prête à passer à la prochaine étape et à négocier un accord gagnant-gagnant.
 
 ---
