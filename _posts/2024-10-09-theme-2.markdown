@@ -3,9 +3,9 @@ title: Maximiser Votre Exit au Moment Parfait pour Vendre
 subtitle: Masterclass
 layout: default
 modal-id: 2
-date: 2024-10-09
+date: 2024-10-12
 img: Masterclasses Animated Marketing thumbnail.gif
-thumbnail: Masterclasses Animated Marketing thumbnail.gif
+thumbnail: Pink Vibrant Artificial intelligence Webinar Instagram Post.gif
 alt: image-alt
 project-date: Nous contacter
 client: Réserver
