@@ -79,42 +79,38 @@ people:
       url: https://wa.me/p/9089964124363229/33605861568 # https://wa.me/c/33605861568 https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
 
 
-- name: Rédiger les courriers de prise de contact avec les investisseurs
-  pic: message-bot # download bots-brands-solid.svg 1
-  position: Le chatbot peut analyser les types d’investissements antérieurs de l'investisseur et ajuster le courrier en fonction de ses intérêts (par exemple, orienter la lettre vers l'impact social pour un investisseur axé sur les projets à fort impact social).
-  social:
-    - title: comments #book bots code
-      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
-    - title: code # amazon
-      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
-    - title: whatsapp
-      url: https://wa.me/p/9089964124363229/33605861568 # https://wa.me/c/33605861568 https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
+# - name: Rédiger les courriers de prise de contact avec les investisseurs
+#   pic: message-bot # download bots-brands-solid.svg 1
+#   position: Le chatbot peut analyser les types d’investissements antérieurs de l'investisseur et ajuster le courrier en fonction de ses intérêts (par exemple, orienter la lettre vers l'impact social pour un investisseur axé sur les projets à fort impact social).
+#   social:
+#     - title: comments #book bots code
+#       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
+#     - title: code # amazon
+#       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
+#     - title: whatsapp
+#       url: https://wa.me/p/9089964124363229/33605861568 # https://wa.me/c/33605861568 https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
 
+# - name: Faire des simulations d'entretiens avec les investisseurs
+#   pic: message-bot # download bots-brands-solid.svg 1
+#   position: Il peut poser des questions types, évaluer les réponses, donner des conseils et proposer des améliorations. Il peut également simuler différents types d'investisseurs, chacun avec ses propres priorités et styles d'interaction, offrant une expérience plus réaliste.
+#   social:
+#     - title: comments #book bots code
+#       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
+#     - title: code # amazon
+#       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
+#     - title: whatsapp
+#       url: https://wa.me/p/9089964124363229/33605861568 # https://wa.me/c/33605861568 https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
 
-- name: Faire des simulations d'entretiens avec les investisseurs
-  pic: message-bot # download bots-brands-solid.svg 1
-  position: Il peut poser des questions types, évaluer les réponses, donner des conseils et proposer des améliorations. Il peut également simuler différents types d'investisseurs, chacun avec ses propres priorités et styles d'interaction, offrant une expérience plus réaliste.
-  social:
-    - title: comments #book bots code
-      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
-    - title: code # amazon
-      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
-    - title: whatsapp
-      url: https://wa.me/p/9089964124363229/33605861568 # https://wa.me/c/33605861568 https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
-
-
-- name: Découvrir comment transformer votre entreprise
-  pic: message-bot # download bots-brands-solid.svg 1
-  position: C'est un outil puissant pour les dirigeants d'entreprise qui cherchent à identifier des opportunités de croissance, d'innovation ou de transformation digitale.
-  social:
-    - title: comments #book bots code
-      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
-    - title: code # amazon
-      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
-    - title: whatsapp
-      url: https://wa.me/p/9089964124363229/33605861568 # https://wa.me/c/33605861568 https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
-
-
+# - name: Découvrir comment transformer votre entreprise
+#   pic: message-bot # download bots-brands-solid.svg 1
+#   position: C'est un outil puissant pour les dirigeants d'entreprise qui cherchent à identifier des opportunités de croissance, d'innovation ou de transformation digitale.
+#   social:
+#     - title: comments #book bots code
+#       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
+#     - title: code # amazon
+#       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
+#     - title: whatsapp
+#       url: https://wa.me/p/9089964124363229/33605861568 # https://wa.me/c/33605861568 https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
