@@ -11,7 +11,7 @@ description: "Guide pratique pour lever des fonds plus efficacement grâce à l'
 people:
 - name: Relations Investisseurs
   pic: message-bot # download bots-brands-solid.svg 1
-  position: La version Premium vous permet de vous former à l’investissement à votre rythme, tandis que la version Entreprise, directement connectée à vos informations, segmente et forme vos investisseurs. 
+  position: Choisissez entre l'efficacité du Chatbot Premium, à partir de 20 €, avec la puissance de la version Entreprise, personnalisée pour votre société dès 200 €/mois. Automatisez vos tâches professionnelles, améliorez vos processus et intégrez un assistant virtuel à votre site et à vos réseaux sociaux. Offrez à vos clients une expérience fluide et engageante, tout en renforçant votre présence digitale et en accélérant la croissance de votre entreprise.
 
   
   social:
@@ -111,6 +111,19 @@ people:
 #       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
 #     - title: whatsapp
 #       url: https://wa.me/p/9089964124363229/33605861568 # https://wa.me/c/33605861568 https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
+- name: Chatbot sur mesure
+  pic: message-bot # download bots-brands-solid.svg 1
+  position: La version Premium vous permet de vous former à l’investissement à votre rythme, tandis que la version Entreprise, directement connectée à vos informations, segmente et forme vos investisseurs. 
+
+  
+  social:
+    - title: comments #book bots code
+      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
+    - title: code # amazon
+      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
+    - title: whatsapp
+      url: https://wa.me/c/33605861568 # https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
