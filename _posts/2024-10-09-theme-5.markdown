@@ -10,6 +10,6 @@ alt: image-alt
 project-date: Nous contacter
 client: Réserver
 category: S'abonner
-description: Vous rêvez de faire croître votre entreprise rapidement et efficacement ? Cette conférence vous offre les clés pour y parvenir avec l'IA générative. Créez un plan d'affaires en quelques minutes, obtenez des financements plus rapidement, et découvrez les astuces pour maximiser votre levée de fonds. Apprenez à déléguer et automatiser pour gagner en productivité, et préparez votre entreprise à une acquisition réussie. Attirez les investisseurs au moment parfait et éliminez les angles morts de votre stratégie d’entreprise. Votre croissance n’attend plus !
+description: Prêt à transformer votre entreprise grâce à l’IA générative ? Cette conférence vous apprendra à créer un plan d’affaires complet en un temps record, à accélérer vos demandes de financement et à séduire les investisseurs au moment parfait. Maximisez vos opportunités d'acquisition, déléguez efficacement, et éliminez les angles morts de votre stratégie. Vous souhaitez aller plus loin ? Contactez-nous pour en savoir plus sur nos conférences partenaires couvrant l'IA dans des domaines comme le droit, le marketing, la vente ou les ressources humaines. 
 
 ---
