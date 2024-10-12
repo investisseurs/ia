@@ -3,9 +3,9 @@ title: Créez Votre Plan d'Affaires en Quelques Minutes !
 subtitle: Masterclass
 layout: default
 modal-id: 1
-date: 2024-10-09
+date: 2024-10-12
 img: Business Plan Animated Marketing thumbnail.gif
-thumbnail: Business Plan Animated Marketing thumbnail.gif
+thumbnail: Pink Vibrant Artificial intelligence Webinar Instagram Post.gif
 alt: image-alt
 project-date: Nous contacter
 client: Réserver
