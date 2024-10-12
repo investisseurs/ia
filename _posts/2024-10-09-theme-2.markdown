@@ -1,10 +1,10 @@
 ---
-published: false
 title: Maximiser Votre Levée de fonds au Moment Parfait
 subtitle: Masterclass
 layout: default
 modal-id: 2
 date: 2024-10-12
+published: false
 img: Masterclass
 thumbnail: Masterclass.gif
 alt: image-alt
