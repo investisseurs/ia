@@ -5,11 +5,11 @@ layout: default
 modal-id: 9
 date: 2024-10-09
 img: Business Plan Animated Marketing thumbnail.gif
-thumbnail: Masterclass.gif
+thumbnail: Fundraising Masterclass.gif
 alt: image-alt
 project-date: Nous contacter
 client: Réserver
 category: S'abonner
-description: Dépassez vos objectifs de financement grâce à l'IA générative. Apprenez à automatiser vos tâches, à améliorer la qualité de vos demandes de subventions et à renforcer vos relations avec les donateurs. Une formation essentielle pour les associations souhaitant maximiser leur impact.
+description: Accélérez vos projets financiers en utilisant l'intelligence artificielle pour automatiser et perfectionner vos démarches de financement. Dans cette formation, apprenez à identifier les points faibles, à déléguer intelligemment et à séduire vos investisseurs. Profitez d’un accompagnement sur mesure pour optimiser chaque étape de votre levée de fonds. Ne ratez pas cette opportunité de succès ! <br>N'hésitez pas à nous contacter pour en savoir plus au sujet de nos autres masterclasses sur l'IA appliquée à la finance : Créez Votre Plan d'Affaires en Quelques Minutes ! ; Maximiser Votre Levée de fonds au Moment Parfait ; Déléguer, Automatiser, Éliminer ; Vendre Votre Potentiel - Le Secret d'une Acquisition ; Préparer la Documentation de Processus ; Démasquez les Angles Morts de Votre Entreprise ; Accélérer les solutions de financement à but non lucratif...
 
 ---
