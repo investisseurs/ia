@@ -1,5 +1,5 @@
 ---
-title: De la Documentation a la Vente de Votre Entreprise
+title: De la levée de fonds à la Vente de Votre Entreprise
 subtitle: Conference
 layout: default
 modal-id: 5
