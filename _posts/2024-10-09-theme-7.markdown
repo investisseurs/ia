@@ -5,7 +5,7 @@ layout: default
 modal-id: 7
 date: 2024-10-09
 img: Masterclasses Animated Marketing thumbnail.gif
-thumbnail: Masterclasses Animated Marketing thumbnail.gif
+thumbnail: Masterclass.gif
 alt: image-alt
 project-date: Nous contacter
 client: Réserver
