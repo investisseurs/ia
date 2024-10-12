@@ -5,7 +5,7 @@ layout: default
 modal-id: 9
 date: 2024-10-09
 img: Business Plan Animated Marketing thumbnail.gif
-thumbnail: Business Plan Animated Marketing thumbnail.gif
+thumbnail: Masterclass.gif
 alt: image-alt
 project-date: Nous contacter
 client: Réserver
