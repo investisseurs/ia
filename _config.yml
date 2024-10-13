@@ -8,6 +8,7 @@ description: "Guide pratique pour lever des fonds plus efficacement grâce à l'
 
 
 # Team names, titles and social links
+people:
 - name: Assistant IA pour Business Plan
   pic: message-bot # download bots-brands-solid.svg 1
   position: Avec la version Premium de notre chatbot, créez un business plan complet en un clin d'œil grâce à des conseils personnalisés et un processus guidé. Pour votre communauté, la version Entreprise, personnalisée à votre image, permet à vos utilisateurs de bénéficier du même accompagnement.
@@ -30,7 +31,6 @@ description: "Guide pratique pour lever des fonds plus efficacement grâce à l'
     - title: whatsapp
       url: https://wa.me/c/33605861568 # https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
 
-# people:
 - name: Autres assistants IA sur mesure
   pic: message-bot # download bots-brands-solid.svg 1
   position: Préparer la Due diligence, Développer un plan stratégique convaincant, Identifier le meilleur moment pour lever des fonds, Préparer la Due diligence, Rédiger les courriers de prise de contact avec les investisseurs, Faire des simulations d'entretiens avec les investisseurs, Découvrir comment transformer votre entreprise
