@@ -8,10 +8,68 @@ description: "Guide pratique pour lever des fonds plus efficacement grâce à l'
 
 
 # Team names, titles and social links
-people:
-- name: Chatbot sur mesure
+- name: Assistant IA pour Business Plan
   pic: message-bot # download bots-brands-solid.svg 1
-  position: Choisissez entre l'efficacité du Chatbot Premium, à partir de 20 €, avec la puissance de la version Entreprise, personnalisée pour votre société dès 200 €/mois. Automatisez vos tâches professionnelles, améliorez vos processus et intégrez un assistant virtuel à votre site et à vos réseaux sociaux. Offrez à vos clients une expérience fluide et engageante, tout en renforçant votre présence digitale et en accélérant la croissance de votre entreprise.
+  position: Avec la version Premium de notre chatbot, créez un business plan complet en un clin d'œil grâce à des conseils personnalisés et un processus guidé. Pour votre communauté, la version Entreprise, personnalisée à votre image, permet à vos utilisateurs de bénéficier du même accompagnement.
+  social:
+    - title: comments #book bots code
+      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
+    - title: code # amazon
+      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
+    - title: whatsapp
+      url: https://wa.me/p/9089964124363229/33605861568 # https://wa.me/c/33605861568 https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
+
+
+# - name: Rédiger les courriers de prise de contact avec les investisseurs
+#   pic: message-bot # download bots-brands-solid.svg 1
+#   position: Le chatbot peut analyser les types d’investissements antérieurs de l'investisseur et ajuster le courrier en fonction de ses intérêts (par exemple, orienter la lettre vers l'impact social pour un investisseur axé sur les projets à fort impact social).
+#   social:
+#     - title: comments #book bots code
+#       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
+#     - title: code # amazon
+#       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
+#     - title: whatsapp
+#       url: https://wa.me/p/9089964124363229/33605861568 # https://wa.me/c/33605861568 https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
+
+# - name: Faire des simulations d'entretiens avec les investisseurs
+#   pic: message-bot # download bots-brands-solid.svg 1
+#   position: Il peut poser des questions types, évaluer les réponses, donner des conseils et proposer des améliorations. Il peut également simuler différents types d'investisseurs, chacun avec ses propres priorités et styles d'interaction, offrant une expérience plus réaliste.
+#   social:
+#     - title: comments #book bots code
+#       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
+#     - title: code # amazon
+#       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
+#     - title: whatsapp
+#       url: https://wa.me/p/9089964124363229/33605861568 # https://wa.me/c/33605861568 https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
+
+# - name: Découvrir comment transformer votre entreprise
+#   pic: message-bot # download bots-brands-solid.svg 1
+#   position: C'est un outil puissant pour les dirigeants d'entreprise qui cherchent à identifier des opportunités de croissance, d'innovation ou de transformation digitale.
+#   social:
+#     - title: comments #book bots code
+#       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
+#     - title: code # amazon
+#       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
+#     - title: whatsapp
+#       url: https://wa.me/p/9089964124363229/33605861568 # https://wa.me/c/33605861568 https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
+
+- name: Assistant pour Relations Investisseurs
+  pic: message-bot # download bots-brands-solid.svg 1
+  position: La version Premium vous permet de vous former à l’investissement à votre rythme, tandis que la version Entreprise, directement connectée à vos informations, segmente et forme vos investisseurs. Elle les guide à travers tout le processus que vous lui déléguez, simplifiant ainsi votre gestion tout en augmentant l'efficacité. Laissez l’IA gérer les potentiels investisseurs pendant que vous vous concentrez sur l'intégration des plus pertinents.
+
+  
+  social:
+    - title: comments #book bots code
+      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
+    - title: code # amazon
+      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
+    - title: whatsapp
+      url: https://wa.me/c/33605861568 # https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
+
+people:
+- name: Autres assistants IA sur mesure
+  pic: message-bot # download bots-brands-solid.svg 1
+  position: Préparer la Due diligence, Développer un plan stratégique convaincant, Identifier le meilleur moment pour lever des fonds, Préparer la Due diligence, Rédiger les courriers de prise de contact avec les investisseurs, Faire des simulations d'entretiens avec les investisseurs, Découvrir comment transformer votre entreprise
 
   
   social:
@@ -66,65 +124,6 @@ people:
 #       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
 #     - title: whatsapp
 #       url: https://wa.me/p/9089964124363229/33605861568 # https://wa.me/c/33605861568 https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
-
-- name: Rédiger Votre Business Plan sur mesure
-  pic: message-bot # download bots-brands-solid.svg 1
-  position: Avec la version Premium de notre chatbot, créez un business plan complet en un clin d'œil grâce à des conseils personnalisés et un processus guidé. Pour votre communauté, la version Entreprise, personnalisée à votre image, permet à vos utilisateurs de bénéficier du même accompagnement.
-  social:
-    - title: comments #book bots code
-      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
-    - title: code # amazon
-      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
-    - title: whatsapp
-      url: https://wa.me/p/9089964124363229/33605861568 # https://wa.me/c/33605861568 https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
-
-
-# - name: Rédiger les courriers de prise de contact avec les investisseurs
-#   pic: message-bot # download bots-brands-solid.svg 1
-#   position: Le chatbot peut analyser les types d’investissements antérieurs de l'investisseur et ajuster le courrier en fonction de ses intérêts (par exemple, orienter la lettre vers l'impact social pour un investisseur axé sur les projets à fort impact social).
-#   social:
-#     - title: comments #book bots code
-#       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
-#     - title: code # amazon
-#       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
-#     - title: whatsapp
-#       url: https://wa.me/p/9089964124363229/33605861568 # https://wa.me/c/33605861568 https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
-
-# - name: Faire des simulations d'entretiens avec les investisseurs
-#   pic: message-bot # download bots-brands-solid.svg 1
-#   position: Il peut poser des questions types, évaluer les réponses, donner des conseils et proposer des améliorations. Il peut également simuler différents types d'investisseurs, chacun avec ses propres priorités et styles d'interaction, offrant une expérience plus réaliste.
-#   social:
-#     - title: comments #book bots code
-#       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
-#     - title: code # amazon
-#       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
-#     - title: whatsapp
-#       url: https://wa.me/p/9089964124363229/33605861568 # https://wa.me/c/33605861568 https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
-
-# - name: Découvrir comment transformer votre entreprise
-#   pic: message-bot # download bots-brands-solid.svg 1
-#   position: C'est un outil puissant pour les dirigeants d'entreprise qui cherchent à identifier des opportunités de croissance, d'innovation ou de transformation digitale.
-#   social:
-#     - title: comments #book bots code
-#       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
-#     - title: code # amazon
-#       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
-#     - title: whatsapp
-#       url: https://wa.me/p/9089964124363229/33605861568 # https://wa.me/c/33605861568 https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
-
-- name: Relations Investisseurs
-  pic: message-bot # download bots-brands-solid.svg 1
-  position: La version Premium vous permet de vous former à l’investissement à votre rythme, tandis que la version Entreprise, directement connectée à vos informations, segmente et forme vos investisseurs. Elle les guide à travers tout le processus que vous lui déléguez, simplifiant ainsi votre gestion tout en augmentant l'efficacité. Laissez l’IA gérer les potentiels investisseurs pendant que vous vous concentrez sur l'intégration des plus pertinents.
-
-  
-  social:
-    - title: comments #book bots code
-      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
-    - title: code # amazon
-      url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8W838427MU507113HM3HYLXQ # https://amzn.eu/d/gXZF6bS
-    - title: whatsapp
-      url: https://wa.me/c/33605861568 # https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
-
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
