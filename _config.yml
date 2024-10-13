@@ -69,7 +69,7 @@ description: "Guide pratique pour lever des fonds plus efficacement grâce à l'
 people:
 - name: Autres assistants IA sur mesure
   pic: message-bot # download bots-brands-solid.svg 1
-  position: 
+  position: test
   
   social:
     - title: comments #book bots code
