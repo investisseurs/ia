@@ -9,7 +9,7 @@ description: "Guide pratique pour lever des fonds plus efficacement grâce à l'
 
 # Team names, titles and social links
 people:
-- name: Assistant IA pour Business Plan
+- name: Assistant IA Business Plan
   pic: message-bot # download bots-brands-solid.svg 1
   position: Avec la version Premium de notre chatbot, créez un business plan complet en un clin d'œil grâce à des conseils personnalisés et un processus guidé. <br>Pour votre communauté, la version Entreprise, personnalisée à votre image, permet à vos utilisateurs de bénéficier du même accompagnement.
   social:
@@ -20,9 +20,9 @@ people:
     - title: whatsapp
       url: https://wa.me/p/9089964124363229/33605861568 # https://wa.me/c/33605861568 https://www.linkedin.com/company/27132274/admin/products/ethercourt-les-relations-investisseurs-assist%C3%A9es-par-lintelligence-artificielle/
 
-- name: Assistant IA pour Relations Investisseurs
+- name: Assistant IA Relations Investisseurs
   pic: message-bot # download bots-brands-solid.svg 1
-  position: La version Premium vous permet de vous former à l’investissement à votre rythme, tandis que la version Entreprise, directement connectée à vos informations, segmente et forme vos investisseurs. Elle les guide à travers tout le processus que vous lui déléguez, simplifiant ainsi votre gestion tout en augmentant l'efficacité. Laissez l’IA gérer les potentiels investisseurs pendant que vous vous concentrez sur l'intégration des plus pertinents.
+  position: La version Premium vous permet de vous former à l’investissement à votre rythme, tandis que la version Entreprise, directement connectée à vos informations, segmente et guide vos investisseurs jusqu'à vous. <br>Laissez l’IA gérer les potentiels investisseurs pendant que vous vous concentrez sur l'intégration des plus pertinents.
   social:
     - title: comments #book bots code
       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
@@ -33,7 +33,7 @@ people:
 
 - name: Autres assistants IA sur mesure
   pic: message-bot # download bots-brands-solid.svg 1
-  position: Préparer une <strong>Due diligence</strong><br>Développer un <strong>plan</strong> stratégique convaincant<br>Identifier le <strong>meilleur</strong> moment pour lever des fonds<br>Rédiger les <strong>courriers</strong> de prise de contact avec les investisseurs<br>Faire des simulations d'<strong>entretiens</strong> avec les investisseurs<br>Découvrir comment <strong>transformer</strong> votre entreprise
+  position: - Préparer une <strong>Due diligence</strong><br>Développer un <strong>plan</strong> stratégique convaincant<br>- Identifier le <strong>meilleur</strong> moment pour lever des fonds<br>- Rédiger les <strong>courriers</strong> de prise de contact avec les investisseurs<br>- Faire des simulations d'<strong>entretiens</strong> avec les investisseurs<br>- Découvrir comment <strong>transformer</strong> votre entreprise
   
   social:
     - title: comments #book bots code
