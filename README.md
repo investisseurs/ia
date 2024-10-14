@@ -73,9 +73,20 @@ Gray: Stability, neutrality, professionalism
 Gold: Luxury, wealth, success
 Green: Growth, stability, nature
 Purple: Creativity, innovation, royalty
-Visual Tools:
 
-To visualize these color combinations and explore different shades, use online color palette generators or design tools like Adobe Color or Canva.
+Color Palette Options
+Option 1:
+
+Primary: Blue Sapphire (RGB: 15, 76, 129), Steel Gray (RGB: 93, 109, 118)
+Accent: Gold (RGB: 255, 215, 0)
+Option 2:
+
+Primary: Blue Sapphire (RGB: 15, 76, 129), Steel Gray (RGB: 93, 109, 118)
+Accent: Green (RGB: 0, 128, 0)
+Option 3:
+
+Primary: Lighter Blue Sapphire (RGB: 50, 100, 150), Lighter Steel Gray (RGB: 150, 170, 180)
+Accent: Purple (RGB: 128, 0, 128)
 --
 
 ### Typography
