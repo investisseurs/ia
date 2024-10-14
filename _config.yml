@@ -33,8 +33,7 @@ people:
 
 - name: Autres assistants IA sur mesure
   pic: message-bot # download bots-brands-solid.svg 1
-  position: Préparer une Due diligence
-  <br>Développer un plan stratégique convaincant, Identifier le meilleur moment pour lever des fonds, Préparer la Due diligence, Rédiger les courriers de prise de contact avec les investisseurs, Faire des simulations d'entretiens avec les investisseurs, Découvrir comment transformer votre entreprise
+  position: Préparer une Due diligence<br>Développer un plan stratégique convaincant<br>Identifier le meilleur moment pour lever des fonds<br><br>Rédiger les courriers de prise de contact avec les investisseurs<br>Faire des simulations d'entretiens avec les investisseurs<br>Découvrir comment transformer votre entreprise
   
   social:
     - title: comments #book bots code
