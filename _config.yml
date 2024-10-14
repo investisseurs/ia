@@ -22,7 +22,7 @@ people:
 
 - name: Assistant IA Relations Investisseurs
   pic: message-bot # download bots-brands-solid.svg 1
-  position: La version Premium vous permet de vous former à l’investissement à votre rythme, tandis que la version Entreprise, directement connectée à vos informations, segmente et guide vos investisseurs jusqu'à vous. <br>Laissez l’IA gérer les potentiels investisseurs pendant que vous vous concentrez sur l'intégration des plus pertinents.
+  position: La version <strong>Premium</strong> vous permet de vous former à l’investissement à votre rythme, tandis que la version <strong>Entreprise</strong>, directement connectée à vos informations, segmente et guide vos investisseurs jusqu'à vous. <br>Laissez l’<strong>IA</strong> gérer les potentiels investisseurs pendant que vous vous concentrez sur l'intégration des plus pertinents. #La version Premium vous permet de vous former à l’investissement à votre rythme, tandis que la version Entreprise, directement connectée à vos informations, segmente et guide vos investisseurs jusqu'à vous. <br>Laissez l’IA gérer les potentiels investisseurs pendant que vous vous concentrez sur l'intégration des plus pertinents.
   social:
     - title: comments #book bots code
       url: https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SE50974Y0406773CM3HYRMQ # https://twitter.com/neohack22
