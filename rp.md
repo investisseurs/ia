@@ -27,3 +27,22 @@ Ce livre a pour objectif de :
 - Partager mon expertise en matière d'intelligence artificielle et de relations investisseurs.
 - Inspirer d'autres professionnels à explorer les possibilités offertes par l'IA.
 - Proposer des solutions concrètes pour améliorer l'efficacité et la communication dans le monde de l'entreprise.
+
+## A quelle problématique répond le livre les relations investisseurs assistées par l'ia (voir mon workspace)
+
+Le livre "Les Relations Investisseurs Assistées par l'IA" s'adresse à une problématique bien précise : comment utiliser l'intelligence artificielle pour améliorer la communication avec les investisseurs et faciliter la levée de fonds.
+
+En effet, dans le monde de la finance, la concurrence est féroce et les investisseurs sont de plus en plus exigeants. Il devient donc crucial pour les entreprises de se démarquer et de présenter leur projet de manière convaincante et efficace.
+
+Ce livre propose des solutions concrètes pour :
+
+Automatiser certaines tâches : L'IA peut prendre en charge des tâches répétitives comme la collecte de données, la génération de rapports ou encore la réponse aux questions fréquentes des investisseurs, libérant ainsi du temps pour les équipes de relations investisseurs.
+Personnaliser la communication : Grâce à l'analyse de grandes quantités de données, l'IA permet de mieux comprendre les besoins et les attentes de chaque investisseur et d'adapter la communication en conséquence.
+Améliorer la prise de décision : L'IA peut aider à analyser les tendances du marché, à identifier les opportunités d'investissement et à évaluer les risques.
+En résumé, ce livre est un guide pratique pour les entreprises qui souhaitent :
+- Lever des fonds plus rapidement et plus efficacement.
+- Renforcer leur relation avec les investisseurs.
+- Se positionner comme une entreprise innovante et à la pointe de la technologie.
+Si tu es intéressé par l'entrepreneuriat ou la finance, ce livre pourrait t'apporter des connaissances précieuses sur l'utilisation de l'intelligence artificielle dans un contexte professionnel.
+
+Pour en savoir plus, je te conseille de consulter les premières pages du livre ou de faire une recherche en ligne de la version ebook.
